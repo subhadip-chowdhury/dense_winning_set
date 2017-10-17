@@ -11,7 +11,7 @@ fig = plt.figure()
 ax=fig.add_subplot(111,aspect='equal')
 
 
-N=2
+N=5
 Mmax=2
 Mmin=1
 
