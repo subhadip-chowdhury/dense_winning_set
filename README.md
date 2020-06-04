@@ -1,5 +1,5 @@
 # Dense Winning Set
-Reference found in [here](https://subhadipchowdhury.github.io/assets/Research_Statement.pdf).
+Reference found in [here](https://subhadipchowdhury.github.io/research/Research_Statement.pdf).
 
 A picture of the dense subset of unit square that satisfies the Winning interval condition.
 
